@@ -1,0 +1,22 @@
+{
+  "name": "tamraspidisplay",
+  "version": "1.0.0",
+  "description": "This is a small homemade Raspberry Pi Project aiming to display the Montpellier's tram data in real-time on a Raspi OLED display.",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Xn2/tamRaspiDisplay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xn2/tamRaspiDisplay/issues"
+  },
+  "homepage": "https://github.com/Xn2/tamRaspiDisplay#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
